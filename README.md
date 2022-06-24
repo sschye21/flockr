@@ -1,3 +1,3 @@
 <h1>#flockr</h1>
 
-Python project replication the functionality of Flock
+Python backend project replicating the functionality of Flock
